@@ -39,6 +39,7 @@ public class Exercicio1{
                 break;
 
             default:
+                System.out.println("Caractere inválido");
                 break;
         }
     }
